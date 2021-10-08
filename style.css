@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+.cabe {
+    font-family: 'Open Sans', sans-serif;
+    color: #f1f1f1;
+    text-align: center;
+    padding: 8px;
+    background-color: #111
+}
+#card {
+    padding-top: 16px;
+    padding-left: 16px;
+    margin-bottom: 32px;
+    color: #111;
+}
+.container {
+    font-family: 'Open Sans', sans-serif;
+    margin: 24px;
+    color: #111;
+    background-color: #e2d8e7
+}
+.image {
+    width: 200px;
+    height: 200px;
+}
+#sl {
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    padding-bottom: 32px;
+}
+#tsl {
+    text-align: center;
+}
+.content {
+    margin-left: 64px;
+    margin-bottom: 64px;
+}
+#roda {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    background-color: #111;
+}
